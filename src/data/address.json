@@ -1,0 +1,34 @@
+{
+    "Abfrage1": [
+        {
+            "ID": "13701",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Stadtkern",
+            "STRASSENNA": "Geschwister-Scholl-Straße",
+            "HAUSNR": "16",
+            "HAUSNR_ZUS": "",
+            "coordinates": [51.457909, 7.013860]
+        },
+        {
+            "ID": "13903",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Stadtkern",
+            "STRASSENNA": "Lumley-Straße",
+            "HAUSNR": "54",
+            "HAUSNR_ZUS": "", 
+            "coordinates": [51.469580, 6.865970]
+        },
+        {
+            "ID": "24504",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Geisbruch",
+            "STRASSENNA": "Ferdinantenstraße",
+            "HAUSNR": "70",
+            "HAUSNR_ZUS": "",
+            "coordinates": [51.435150, 6.762690]
+        }
+        
+       
+        
+    ]
+    }

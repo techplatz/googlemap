@@ -1,0 +1,104 @@
+{
+    "Abfrage1": [
+        {
+            "ID": "13701",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Stadtkern",
+            "STRASSENNA": "Geschwister-Scholl-Straße",
+            "HAUSNR": "16",
+            "HAUSNR_ZUS": "",
+            "coordinates": [51.510632, 6.539910]
+        },
+        {
+            "ID": "24504",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Geisbruch",
+            "STRASSENNA": "Ferdinantenstraße",
+            "HAUSNR": "70",
+            "HAUSNR_ZUS": "",
+            "coordinates": [51.496730, 6.531440]
+        },
+        {
+            "ID": "13903",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Stadtkern",
+            "STRASSENNA": "Lumley-Straße",
+            "HAUSNR": "54",
+            "HAUSNR_ZUS": "", 
+            "coordinates": [51.507610, 6.543240]
+        },
+        {
+            "ID": "27185",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Geisbruch",
+            "STRASSENNA": "Blumenstraße",
+            "HAUSNR": "14",
+            "HAUSNR_ZUS": "",
+            "coordinates": [51.494040, 6.520360]
+        }, {
+            "ID": "6734",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Lintfort",
+            "STRASSENNA": "Winkelstraße",
+            "HAUSNR": "9",
+            "HAUSNR_ZUS": "a",
+            "coordinates": [51.488870, 6.556990]
+        },
+        {
+            "ID": "9391",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Rossenray",
+            "STRASSENNA": "Kaiserstraße",
+            "HAUSNR": "9",
+            "HAUSNR_ZUS": "",
+            "coordinates": [51.510630, 6.539910]
+        },
+        {
+            "ID": "8671",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Lintfort",
+            "STRASSENNA": "Christianstraße",
+            "HAUSNR": "20",
+            "HAUSNR_ZUS": "b",
+            "coordinates": [51.496600, 6.553300]
+        },
+        {
+            "ID": "5043",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Rossenray",
+            "STRASSENNA": "Tilsiter Straße",
+            "HAUSNR": "38",
+            "HAUSNR_ZUS": "",
+            "coordinates": [51.504380, 6.560560]
+        },
+        {
+            "ID": "7915",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Lintfort",
+            "STRASSENNA": "Kattenstraße",
+            "HAUSNR": "143",
+            "HAUSNR_ZUS": "a",
+            "coordinates": [51.493080, 6.554550]
+        },
+        {
+            "ID": "440",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Lintfort",
+            "STRASSENNA": "Elisabethstraße",
+            "HAUSNR": "34",
+            "HAUSNR_ZUS": "a",
+            "coordinates": [51.490620, 6.562360]
+        },
+        {
+            "ID": "27962",
+            "POSTLEITZA": "47475",
+            "ORTSBEZEIC": "Geisbruch",
+            "STRASSENNA": "Eyller Straße",
+            "HAUSNR": "223",
+            "HAUSNR_ZUS": "",
+            "coordinates": [51.503140, 6.535850]
+        }
+       
+        
+    ]
+    }
